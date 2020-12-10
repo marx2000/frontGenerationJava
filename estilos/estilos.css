@@ -1,0 +1,30 @@
+h1 {
+    color: red;
+    background-color: aquamarine;
+    text-align: center;
+}
+
+#asignaturas {
+    background-color: blueviolet;
+    
+
+}
+
+.fondoNaranja {
+    background-color: coral;
+}
+
+.colorVerde{
+    color: green;
+   
+}
+
+*{
+
+}
+
+body h1{
+
+    background-color: brown;
+}
+
